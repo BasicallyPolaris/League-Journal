@@ -1,0 +1,11 @@
+{
+  "spellcheckLanguages": [
+    "de",
+    "en"
+  ],
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current"
+}
