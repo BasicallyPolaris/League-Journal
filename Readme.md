@@ -1,4 +1,4 @@
-# League-Doc
+# League-Journal
 Basic Obsidian Vault Template used for League of Legends journals.
 
 There are already some Template-pages for champions and a preview of how a "Learning Objective entry" / "VOD Analysis" entry could look like.
