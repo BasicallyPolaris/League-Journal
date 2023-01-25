@@ -1,17 +1,31 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:\"VOD Analysis\" OR path:References",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "VOD",
+      "query": "path:\"VOD Analysis\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Champions",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:References",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000033,
+  "scale": 2.7556759606310886,
   "close": false
 }
