@@ -1,5 +1,4 @@
 ——
-Related: [[League - reference]]
 Type: #vod-review
 Created: {{date:dddd Do, MMMM YYYY}} at {{time:HH:mm}}
 ——

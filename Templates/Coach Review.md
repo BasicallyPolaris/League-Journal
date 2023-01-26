@@ -1,5 +1,4 @@
 ——
-Related: [[League - reference]]
 Type: #coach-review
 Coach: 
 Champ/s:
