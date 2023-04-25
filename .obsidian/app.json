@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": false,
   "newLinkFormat": "shortest",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Matchups/-Runes"
 }

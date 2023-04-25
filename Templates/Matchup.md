@@ -1,7 +1,6 @@
 ——
 Type: #matchup
-Champ: 
-Created: {{date:dddd Do, MMMM YYYY}} at {{time:HH:mm}}
+Champ: [[champions/{{title}}]]
 ——
 
 # waves
