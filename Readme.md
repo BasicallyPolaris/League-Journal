@@ -8,12 +8,15 @@ There are already some Template-pages for champions and a preview of how a "Lear
 
 ## Getting the required files
 1. Install [Obsidian](https://obsidian.md/) for your Operating System
-2. Clone this project into a folder of your choice via command line (requires [git](https://git-scm.com/))
-```zsh
-   git clone https://github.com/BasicallyPolaris/League-Journal.git
-```
+2. Acquire the needed files:
 
-Alternatively: Press "Code" on the [Github Page](https://github.com/BasicallyPolaris/League-Doc) and then "Download ZIP"
+   - Clone this project into a folder of your choice via command line (requires [git](https://git-scm.com/))
+      ```zsh
+         git clone https://github.com/BasicallyPolaris/League-Journal.git
+      ```
+   - OR: Press "Code" in the top left of the UI on the [Github Page](https://github.com/BasicallyPolaris/League-Doc) and then "Download ZIP" and then unpack it into your desired Vault-Folder
+   - OR: Go to [Releases](https://github.com/BasicallyPolaris/League-Journal/releases) and download the most recent release as a ZIP and then unpack it into your desired Vault-Folder
+
 
 ## Using the templates
 1. Open the cloned folder via [Obsidian](https://obsidian.md/) as a "**Vault**"
